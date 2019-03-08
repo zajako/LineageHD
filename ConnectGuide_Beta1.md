@@ -1,5 +1,5 @@
 
-### Step 1: Create Loopback Adapter
+# Step 1: Create Loopback Adapter
 
 * Click the Start button and type Device Manager followed by the enter key
 * Scroll down and click on Network Adapters
@@ -22,7 +22,7 @@
 * Click close
 * Close all menus opened for this step
 
-### Step 2: Install the game
+# Step 2: Install the game
 
 * Extract the rar files to a folder on your computer, remember where you extracted them!
 * Open the folder that you extracted them to and run LineageHD.exe
@@ -34,7 +34,7 @@
 * Also make sure that the path from the above step ends with a / (slash)
 * Click save settings button
 
-### Step 3: Start the game
+# Step 3: Start the game
 
 * Now that you are successfully logged in, click the play button and the game should load
 * Accept the agreement terms
