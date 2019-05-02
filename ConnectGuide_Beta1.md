@@ -27,12 +27,7 @@
 * Extract the rar files to a folder on your computer, remember where you extracted them!
 * Open the folder that you extracted them to and run LineageHD.exe
 * Login to the game with your primary account by filling out the fields and clicking login
-* Click the settings button in the top right of the window.
-* Click the Installer Options tab on the left side of the Settings Menu
-* Click the Browse button on the right side of the Install Location field and locate where you extracted the files
-* Make sure after you click okay that the path doesn't have LineageHD twice, unless your path has this (you may need to click in the field and erase the 2nd one that it adds)
-* Also make sure that the path from the above step ends with a / (slash)
-* Click save settings button
+* Wait for it to finish updating, then click the Play button (>) in the bottom right corner
 
 # Step 3: Start the game
 
