@@ -24,14 +24,20 @@
 
 # Step 2: Install the game
 
-* Extract the rar files to a folder on your computer, remember where you extracted them!
-* Open the folder that you extracted them to and run LineageHD.exe
-* Login to the game with your primary account by filling out the fields and clicking login
-* Wait for it to finish updating, then click the Play button (>) in the bottom right corner
+* Download https://www.l15server.com/installer/LineageHD.exe
+* Run the installer and click through until it's finished
+* Right click on the shortcut placed on the desktop and click properties
+* Then click Compatibility tab
+* Checkmark the box for Run As Admin
+* Click ok, then double click the shortcut
+* After being prompted, login with your game account
+* Allow the Connector to download and install the full game
 
 # Step 3: Start the game
 
-* Now that you are successfully logged in, click the play button and the game should load
+* When the "Current Step" says ready, click the play button and the game should load
+* The first time you do this, it may prompt for firewall permissions, click allow, then restart the connector then login and click play again
+* The first time the game client loads it will update GameGuard, allow it to do this and it should finish loading
 * Accept the agreement terms
 * The login field that pops up, enter anything in the username field (it will type in korean characters, thats fine)
 * Choose your character and enter the game
